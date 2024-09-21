@@ -6,7 +6,7 @@ import Hero from "./components/Hero/page"
 export default function Home() {
   return (
     <main className="px-10 min-h-screen">
-      <H1> page under construction</H1>
+      <h1> page under construction</h1>
     </main>
   )
 }
