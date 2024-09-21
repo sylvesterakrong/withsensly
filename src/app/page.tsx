@@ -6,10 +6,7 @@ import Hero from "./components/Hero/page"
 export default function Home() {
   return (
     <main className="px-10 min-h-screen">
-      <Hero/>
-      <TechStack/>
-      <ProjectsDone/>
-      <Gallery/>
+      <H1> page under construction</H1>
     </main>
   )
 }
